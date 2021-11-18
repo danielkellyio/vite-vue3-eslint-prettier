@@ -8,7 +8,7 @@ Vite starter template that includes:
 ## How to Use
 
 ```
-npx degit danielkellyio/vite-vue3-router-tailwind-eslint-prettier [project-name]
+npx degit danielkellyio/vite-vue3-eslint-prettier [project-name]
 ```
 ```
 npm install
